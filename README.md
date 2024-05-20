@@ -25,4 +25,8 @@
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=JIRA&logoColor=2580f7)
 ![Redmine](https://img.shields.io/badge/Redmine-%23DD0031.svg?style=for-the-badge&logo=Redmine&logoColor=white)
 
+### Связаться со мной
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/G_GoodLike)
+[![VK](https://img.shields.io/badge/VK-0077ff?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/g_goodlike)
+
 
