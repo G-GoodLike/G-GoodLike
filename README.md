@@ -24,7 +24,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=JIRA&logoColor=2580f7)
 ![Redmine](https://img.shields.io/badge/Redmine-%23DD0031.svg?style=for-the-badge&logo=Redmine&logoColor=white)
-![selenium](https://img.shields.io/badge/-selenium-090909?style=for-the-badge&logo=selenium&logoColor=0033a1)
+![selenium](https://img.shields.io/badge/-selenium-090909?style=for-the-badge&logo=selenium&logoColor=00ad00)
 
 ### Связаться со мной
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/G_GoodLike)
