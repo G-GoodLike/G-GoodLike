@@ -12,6 +12,10 @@
 Хотя это не полный список, но именно эти источники внесли значительный вклад.
 
 Сейчас являюсь **ручным тестировщиком**, но в дальнейшем вижу себя как **Full-stack QA**. Все мои сертификаты, связанные с тестированием можно посмотреть [тут](https://github.com/G-GoodLike/Certificate)
+### Тестовая документация
+
+-[Чек-лист] (https://github.com/G-GoodLike/Check-List)
+-[Баг репорт] (https://github.com/G-GoodLike/bug-reports)
 
 ### Языки программирования
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=E9D54D)
